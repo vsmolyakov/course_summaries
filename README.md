@@ -5,6 +5,7 @@ A collection of course summaries and formula sheets on a variety of subjects rel
 - [Probability](./intro_to_probability.pdf)  
 - [Linear Algebra](./matrixcookbook.pdf)  
 - [Calculus](./calc_cheatsheet.pdf)  
+- [Useful Inequalities](./useful_inequalities.pdf)  
 
 
 
